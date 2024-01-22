@@ -6,4 +6,4 @@ elif 89>=score>=80:
 elif 79<=score<=50:
     print ('Grade B')
 else:
-    print('Fail')
+    print('not pass')
